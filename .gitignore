@@ -1,0 +1,23 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Saved models
+*.joblib
+
+# Virtual env
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.sqlite
