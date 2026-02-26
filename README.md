@@ -1,8 +1,8 @@
-# 🧠 ML Binary & Multi-Class Classification Project
+#  ML Binary & Multi-Class Classification Project
 
 A comprehensive Machine Learning classification pipeline covering **6 datasets** with **6 ML models** each, totaling **36 trained models**.
 
-## 📊 Datasets
+##  Datasets
 
 | # | Dataset | Type | Samples | Features |
 |---|---------|------|---------|----------|
@@ -13,7 +13,7 @@ A comprehensive Machine Learning classification pipeline covering **6 datasets**
 | 5 | Wine Quality | Multi-Class | 1,599 | 11 |
 | 6 | Dry Bean | Multi-Class | 13,611 | 16 |
 
-## 🤖 Models Used
+##  Models Used
 
 - Logistic Regression
 - Decision Tree
@@ -22,7 +22,7 @@ A comprehensive Machine Learning classification pipeline covering **6 datasets**
 - K-Nearest Neighbors (KNN)
 - XGBoost
 
-## 📋 Complete ML Pipeline
+##  Complete ML Pipeline
 
 | Step | Description |
 |------|-------------|
@@ -41,14 +41,14 @@ A comprehensive Machine Learning classification pipeline covering **6 datasets**
 | Hyperparameter Tuning | GridSearchCV with 5-fold CV |
 | Model Saving | Best models exported with joblib |
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open [Google Colab](https://colab.research.google.com)
 2. Upload `ML_Classification_Complete.ipynb`
 3. Upload all dataset files when prompted
 4. Run all cells (~10-15 min)
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python 3.x
 - scikit-learn
@@ -57,7 +57,7 @@ A comprehensive Machine Learning classification pipeline covering **6 datasets**
 - pandas, numpy
 - matplotlib, seaborn
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── ML_Classification_Complete.ipynb   # Main notebook (Google Colab)
